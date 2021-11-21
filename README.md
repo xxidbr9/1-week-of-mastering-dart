@@ -1,1 +1,2 @@
-# 1-week-of-mastering-dart
+# 1 Week, For Mastering DART Programming Language
+
