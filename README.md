@@ -1,2 +1,2 @@
-# 1 Week, For Mastering DART Programming Language
+# Mastering DART Programming Language
 
